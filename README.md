@@ -1,2 +1,14 @@
-# Dio-desafio-github
-Desafio de Projeto sobre GitHub
+# DESAFIO DIO GITHUB
+
+
+
+#  Pensadores e suas frases :book:
+
+
+
+- Mário Sergio Cortella 
+- Charles Chaplin
+- Robin Willians
+- Getúlio Vargas
+
+ 
